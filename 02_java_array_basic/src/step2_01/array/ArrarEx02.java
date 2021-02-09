@@ -17,10 +17,10 @@ public class ArrarEx02 {
 				arr1[2] = 30;
 
 				// 배열 사용 예시 2 : 축약형 ( 배열을 처음 생성할 때만 사용가능 )
-				int[] arr2 = { 10, 20, 30};
-			    //arr2 = {40 , 50 , 60}; // error
-	
-	
+				int[] arr2 = {10 , 20 , 30};
+		 		//arr2 = {40 , 50 , 60}; // error
+				
+				
 				// 배열 사용 예시 3 ( for문과 조합 )
 				int[] arr3 = new int[100];
 				for (int i = 0; i < arr3.length; i++) {
